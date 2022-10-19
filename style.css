@@ -1,0 +1,47 @@
+@font-face {
+    font-family: font1;
+    src: url(font1.ttf);
+    font-weight: bold;
+ }
+ 
+ /* * {
+    font-family: font1;
+ } */
+ 
+body{
+    background-color: #E8E7EE;
+   
+}
+
+h1{
+    font-family: font1;
+    font-size: 150px;
+    position: fixed;
+    left: 28%;
+      
+}
+
+h2{
+    font-family: font1;
+    font-size: 190px;
+    position: fixed;
+    top: 8%;
+    left: 28%;
+      
+}
+
+img{
+    position: fixed;
+    top: 27%;
+    left: 52%;
+    width: 335px;
+
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: fixed;
+    font-size: 21px;
+    top: 57%;
+    left: 26%;
+}
